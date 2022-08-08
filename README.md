@@ -1,11 +1,11 @@
 ## Hi, I'm Min-gyu  Kim👋
----
+
 반갑습니다👐
 자율주행 개발자를 꿈꾸고 공부하고 있는 김민규입니다.
 
 
 ## Interests 🍀
----
+
 * Simultaneous Localization and Mapping (SLAM)
 * Computer Vision 
 * Deep Learning 
@@ -13,7 +13,7 @@
 
 
 ## Activities
---- 
+
 * Programmers Autonomous-Driving Dev Cours (2022)
 * KWU Cobot expert training course (2021)
 #
