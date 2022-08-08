@@ -3,10 +3,7 @@
 반갑습니다👐
 자율주행 개발자를 꿈꾸고 공부하고 있는 김민규입니다.
 
-#
-#
-#
-#
+
 ## Interests 🍀
 ---
 * Simultaneous Localization and Mapping (SLAM)
@@ -14,10 +11,7 @@
 * Deep Learning 
 
 
-#
-#
-#
-#
+
 ## Activities
 --- 
 * Programmers Autonomous-Driving Dev Cours (2022)
