@@ -7,8 +7,8 @@ I'm AI, Computer Vision Developer in Autonomous.
 ## Interests 🍀
 
 * AI & Deep Learning
-* Computer Vision 
-* Autonomous
+* Computer Vision, Image Processing, Muti-modal
+* Autonomous & Robotics
 
 
 
